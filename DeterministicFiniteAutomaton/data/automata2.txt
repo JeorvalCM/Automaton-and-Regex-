@@ -1,0 +1,5 @@
+{A,B,C}
+{a,b}
+{A-a-B,A-b-A,B-a-C,B-b-A,C-a-C,C-b-A}
+A
+{C}
