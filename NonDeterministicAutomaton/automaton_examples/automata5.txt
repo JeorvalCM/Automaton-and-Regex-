@@ -1,0 +1,5 @@
+{Start,A,B,C, Final}
+{a,b}
+{Start-epsilon-Final,A-a-B,A-b-A,B-a-C,B-b-A,C-a-C,C-b-A, Final-epsilon-Start}
+A
+{Start, Final}
