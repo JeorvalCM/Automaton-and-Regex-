@@ -2,4 +2,3 @@ DeterministicFiniteAutomaton
 NonDeterministicAutomaton
 PushdownAutomata
 RegexGeneratedWithNonDeterministicAutomaton
-RegexProcessorClass
