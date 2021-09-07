@@ -1,0 +1,6 @@
+{q1, q2, q3,q4,q5,q6,q7}
+{a,b,c}
+{a,b,$}
+{q1-epsilon-epsilon-$-q2,q2-a-epsilon-a-q2,q2-epsilon-epsilon-epsilon-q3,q2-epsilon-epsilon-epsilon-q5,q3-b-a-epsilon-q3,q3-epsilon-$-epsilon-q4,q4-c-epsilon-epsilon-q4,q5-b-epsilon-epsilon-q5,q5-epsilon-epsilon-epsilon-q6,q6-c-a-epsilon-q6,q6-epsilon-$-epsilon-q7}
+q1
+{q4,q7}

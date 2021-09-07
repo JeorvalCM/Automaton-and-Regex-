@@ -1,0 +1,6 @@
+{q1, q2, q3,q4}
+{0,1}
+{0,$}
+{q1-epsilon-epsilon-$-q2,q2-0-epsilon-0-q2,q2-1-0-epsilon-q3,q3-1-0-epsilon-q3,q3-epsilon-$-epsilon-q4}
+q1
+{q1,q4}
