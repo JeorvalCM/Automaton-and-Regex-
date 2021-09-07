@@ -3,4 +3,3 @@ NonDeterministicAutomaton
 PushdownAutomata
 RegexGeneratedWithNonDeterministicAutomaton
 RegexProcessorClass
-TuringMachineClass
